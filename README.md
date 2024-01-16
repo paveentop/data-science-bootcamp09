@@ -13,7 +13,7 @@ I'm learing data science bootcamp. There are 10 sprints in the program.
 ## Second part of the program
 - Building Website portfolio
 - Essential Statistics
-- Machine Learning for Dana Analyst
+- Machine Learning for Data Analyst
 - Python programing
 - Essential Python for Data Analyst
 - Dashboard with Looker Studio
